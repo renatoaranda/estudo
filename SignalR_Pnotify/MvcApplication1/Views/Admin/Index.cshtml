@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    
+</head>
+<body>
+
+    <p>Titulo: <input type="text" id="title" name="title" /></p>    
+    <br />
+    <p>Mensagem:<input type="text" id="message" name="message" /></p>
+
+    <input type="button" value="Enviar" id="enviar" name="enviar" />
+    <br />
+    <hr>
+    <br />
+        <script src="~/Scripts/jquery-1.7.1.min.js"></script>
+    <script src="~/Scripts/jquery.signalR-1.0.0-rc2.min.js"></script>
+    
+    <script src="~/signalr/hubs"></script>
+    <script src="~/Scripts/Chat_Admin.js"></script>
+
+</body>
+</html>
+
+
+

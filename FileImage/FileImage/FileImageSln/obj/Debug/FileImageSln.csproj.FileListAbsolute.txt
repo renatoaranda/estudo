@@ -1,0 +1,16 @@
+C:\FileImage\FileImage\FileImageSln\bin\Debug\FileImageSln.exe
+C:\FileImage\FileImage\FileImageSln\bin\Debug\FileImageSln.pdb
+C:\FileImage\FileImage\FileImageSln\obj\Debug\FileImageSln.csprojResolveAssemblyReference.cache
+C:\FileImage\FileImage\FileImageSln\obj\Debug\FileImageSln.Form1.resources
+C:\FileImage\FileImage\FileImageSln\obj\Debug\FileImageSln.Properties.Resources.resources
+C:\FileImage\FileImage\FileImageSln\obj\Debug\FileImageSln.csproj.GenerateResource.Cache
+C:\FileImage\FileImage\FileImageSln\obj\Debug\FileImageSln.exe
+C:\FileImage\FileImage\FileImageSln\obj\Debug\FileImageSln.pdb
+C:\Users\ArandaNote\Dropbox\Tecnico\estudo\FileImage\FileImage\FileImageSln\obj\Debug\FileImageSln.exe
+C:\Users\ArandaNote\Dropbox\Tecnico\estudo\FileImage\FileImage\FileImageSln\obj\Debug\FileImageSln.pdb
+C:\Users\ArandaNote\Dropbox\Tecnico\estudo\FileImage\FileImage\FileImageSln\bin\Debug\FileImageSln.exe
+C:\Users\ArandaNote\Dropbox\Tecnico\estudo\FileImage\FileImage\FileImageSln\bin\Debug\FileImageSln.pdb
+C:\Users\ArandaNote\Dropbox\Tecnico\estudo\FileImage\FileImage\FileImageSln\obj\Debug\FileImageSln.csprojResolveAssemblyReference.cache
+C:\Users\ArandaNote\Dropbox\Tecnico\estudo\FileImage\FileImage\FileImageSln\obj\Debug\FileImageSln.Form1.resources
+C:\Users\ArandaNote\Dropbox\Tecnico\estudo\FileImage\FileImage\FileImageSln\obj\Debug\FileImageSln.Properties.Resources.resources
+C:\Users\ArandaNote\Dropbox\Tecnico\estudo\FileImage\FileImage\FileImageSln\obj\Debug\FileImageSln.csproj.GenerateResource.Cache
