@@ -1,4 +1,4 @@
-Teste HTML de uso do Pnotify
+Teste HTML de uso do [Pnotify]
+---------------
 
-http://pinesframework.org/pnotify/
-======
+[Pnotify]: http://pinesframework.org/pnotify/
